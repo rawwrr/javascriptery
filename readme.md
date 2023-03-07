@@ -1,2 +1,2 @@
-Gosha from Russia
+Max from Russia
 Social media: VK, TG
