@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Amatic SC", cursive;
+  font-weight: 700;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff837b;
+  height: 100vh;
+}
+
+.name-is {
+  text-transform: uppercase;
+  font-size: 10rem;
+  text-align: center;
+}
